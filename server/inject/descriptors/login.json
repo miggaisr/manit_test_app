@@ -38,7 +38,9 @@
       ]
     },
     {
-      "match": [],
+      "match": [
+        "isLogin"
+      ],
       "action": "loginButton"
     }
   ]
