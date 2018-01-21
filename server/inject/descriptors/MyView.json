@@ -45,7 +45,7 @@
           },
           "color": {
             "type": "string",
-            "control": "property.innerText",
+            "control": "property.innerHTML",
             "selector": "tr > td"
           }
         }
