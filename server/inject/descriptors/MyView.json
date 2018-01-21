@@ -68,6 +68,10 @@
         "myassignments"
       ],
       "model": "MyView"
+    },
+    {
+      "match": [],
+      "action": "orderbySeverity"
     }
   ]
 }
