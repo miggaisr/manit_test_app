@@ -58,5 +58,12 @@
       "selectContains": "Severity"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "isMyView"
+      ],
+      "action": "sortBySeverity"
+    }
+  ]
 }
