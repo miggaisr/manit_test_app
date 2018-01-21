@@ -36,6 +36,12 @@
             "selector": "td",
             "control": "property.innerText",
             "selectIndex": 10
+          },
+          "status": {
+            "type": "string",
+            "selector": "td",
+            "control": "property.innerText",
+            "selectIndex": 8
           }
         }
       }
