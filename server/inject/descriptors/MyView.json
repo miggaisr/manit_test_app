@@ -45,7 +45,7 @@
           },
           "color": {
             "type": "string",
-            "selector": "[bgcolor]",
+            "selector": "tr [bgcolor]",
             "control": "property.innerText"
           }
         }
