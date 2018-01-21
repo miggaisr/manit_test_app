@@ -62,6 +62,12 @@
       "selector": "a",
       "control": "action.link",
       "selectContains": "Severity"
+    },
+    "orderbyStatus": {
+      "type": "string",
+      "selector": "a",
+      "control": "action.link",
+      "selectContains": "Status"
     }
   },
   "connect": [
