@@ -9,13 +9,13 @@
         "properties": {
           "id": {
             "type": "string",
-            "selector": ".tr",
+            "selector": "td",
             "control": "property.innerText",
             "selectIndex": 5
           },
           "Category": {
             "type": "string",
-            "selector": ".tr",
+            "selector": "td",
             "control": "property.innerText",
             "selectIndex": 6
           }
