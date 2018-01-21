@@ -8,7 +8,7 @@
     },
     "goToMyView": {
       "type": "action",
-      "selector": "subtle",
+      "selector": ".subtle",
       "control": "action.link",
       "selectContains": "Assigned to Me"
     }
