@@ -48,8 +48,9 @@
     },
     "isMyView": {
       "type": "identifier",
-      "selector": "html",
-      "control": "url.view_all_bug_page"
+      "selector": "table",
+      "control": "contains",
+      "selectContains": "Viewing Issues"
     }
   },
   "connect": [
