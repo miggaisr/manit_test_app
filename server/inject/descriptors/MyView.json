@@ -42,6 +42,11 @@
             "selector": "td",
             "control": "property.innerText",
             "selectIndex": 8
+          },
+          "color": {
+            "type": "string",
+            "selector": "tr bgcolor",
+            "control": "property.innerText"
           }
         }
       }
