@@ -34,7 +34,7 @@
         "isLogin"
       ],
       "screens": [
-        "logincool"
+        "login"
       ]
     }
   ]
