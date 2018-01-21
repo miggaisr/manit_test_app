@@ -45,7 +45,20 @@
   },
   "login": {
     "type": "object",
-    "properties": {}
+    "properties": {
+      "username": {
+        "type": "string"
+      },
+      "password": {
+        "type": "string"
+      },
+      "error_message": {
+        "type": "string"
+      },
+      "submit": {
+        "type": "action"
+      }
+    }
   },
   "myassignments": {
     "type": "object",
