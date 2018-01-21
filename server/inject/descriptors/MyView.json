@@ -63,7 +63,8 @@
       "match": [
         "isMyView"
       ],
-      "action": "sortBySeverity"
+      "action": "sortBySeverity",
+      "model": "MyView"
     },
     {
       "match": [
@@ -71,7 +72,8 @@
       ],
       "screens": [
         "myassignments"
-      ]
+      ],
+      "model": "MyView"
     }
   ]
 }
