@@ -13,5 +13,12 @@
       "selectContains": "Assigned to Me"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "isLanding"
+      ],
+      "action": "goToMyView"
+    }
+  ]
 }
