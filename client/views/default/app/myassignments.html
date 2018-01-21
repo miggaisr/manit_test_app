@@ -9,50 +9,51 @@
         </ion-nav-buttons>
     </ion-nav-bar>
     <ion-content class=" positive-bg" data-comp-id="ionic-content.1">
-        <ion-list data-comp-id="ionic-list.1">
+        <ion-list data-comp-id="ionic-list.1" type="">
             <div class="card" data-comp-display="card.1" data-comp-id="div.1">
-                <div class="row positive-border positive-bg light" data-comp-id="row.1"
-                    ng-repeat="item in data.myAssignments" style="">
+                <div class="row positive-bg light dark-border" data-comp-id="row.1"
+                    ng-repeat="item in data.myAssignments" style="padding: 5px; margin: 1px;">
                     <div class="col royal-border text-center" data-comp-id="column.1">
                         <div class="row" data-comp-id="row.2">
                             <div class="col" data-comp-id="column.2">
-                                <div class="item item-icon-right" data-comp-id="item.1">
-                                    <div data-comp-id="text.1" ng-bind="item.id">
+                                <div class="item item-icon-right positive-bg" data-comp-id="item.1">
+                                    <div class=" stable" data-comp-id="text.1" ng-bind="item.id"
+                                        style="font-weight: 900;">
                                         Some text
                                         <span class="item-note"></span>
                                     </div>
                                 </div>
                             </div>
                             <div class="col" data-comp-id="column.3">
-                                <div data-comp-id="text.2" ng-bind="item.severity">Some text</div>
+                                <div data-comp-id="text.2" ng-bind="item.severity" style="font-weight: bold;">Some text</div>
                             </div>
                         </div>
                         <div class="row" data-comp-id="row.3">
                             <div class="col" data-comp-id="column.4">
-                                <div data-comp-id="text.3">Category</div>
+                                <div class=" text-center" data-comp-id="text.3" style="font-weight: bold;">Category</div>
                             </div>
                             <div class="col" data-comp-id="column.5">
-                                <div data-comp-id="text.4">Date</div>
+                                <div class=" text-center" data-comp-id="text.4" style="font-weight: bold;">Date</div>
                             </div>
                             <div class="col" data-comp-id="column.6">
-                                <div data-comp-id="text.5">Summary</div>
+                                <div class=" text-center" data-comp-id="text.5" style="font-weight: bold;">Summary</div>
                             </div>
                             <div class="col" data-comp-id="column.7">
-                                <div data-comp-id="text.6">Status</div>
+                                <div class=" text-center" data-comp-id="text.6" style="font-weight: bold;">Status</div>
                             </div>
                         </div>
                         <div class="row" data-comp-id="row.4">
                             <div class="col" data-comp-id="column.8">
-                                <div data-comp-id="text.7" ng-bind="item.Category">Some text</div>
+                                <div class=" text-center" data-comp-id="text.7" ng-bind="item.Category">Some text</div>
                             </div>
                             <div class="col" data-comp-id="column.9">
-                                <div data-comp-id="text.8" ng-bind="item.update_date">Some text</div>
+                                <div class=" text-center" data-comp-id="text.8" ng-bind="item.update_date">Some text</div>
                             </div>
                             <div class="col" data-comp-id="column.10">
-                                <div data-comp-id="text.9" ng-bind="item.summary">Some text</div>
+                                <div class=" text-center" data-comp-id="text.9" ng-bind="item.summary">Some text</div>
                             </div>
                             <div class="col" data-comp-id="column.11">
-                                <div data-comp-id="text.10" ng-bind="item.status">Some text</div>
+                                <div class=" text-center" data-comp-id="text.10" ng-bind="item.status">Some text</div>
                             </div>
                         </div>
                     </div>
