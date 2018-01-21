@@ -65,7 +65,7 @@
     },
     "colors": {
       "type": "array",
-      "selectorAll": "[class='width100']",
+      "selectorAll": "table #buglist",
       "items": {
         "type": "object",
         "properties": {
