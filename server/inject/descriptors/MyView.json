@@ -80,6 +80,5 @@
       ],
       "action": "orderbySeverity"
     }
-  ],
-  "selector": "table"
+  ]
 }
