@@ -15,6 +15,12 @@
       "type": "string",
       "selector": "[name=\"password\"]",
       "control": "text"
+    },
+    "error_message": {
+      "type": "string",
+      "selector": ".div",
+      "control": "property.innerText",
+      "selectContains": "password you entered is incorrect"
     }
   },
   "connect": [
