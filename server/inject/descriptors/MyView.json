@@ -55,8 +55,7 @@
   "connect": [
     {
       "match": [
-        "isMyView",
-        "isLogin"
+        "isMyView"
       ],
       "screens": [
         "myassignments"
