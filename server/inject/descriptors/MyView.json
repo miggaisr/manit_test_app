@@ -65,7 +65,7 @@
     },
     "colors": {
       "type": "array",
-      "selectorAll": "[name='bug_action']",
+      "selectorAll": "table",
       "items": {
         "type": "object",
         "properties": {
@@ -75,7 +75,8 @@
             "control": "property.innerHTML"
           }
         }
-      }
+      },
+      "frameSelector": "#buglist"
     }
   },
   "connect": [
