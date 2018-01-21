@@ -42,5 +42,9 @@
         }
       }
     }
+  },
+  "login": {
+    "type": "object",
+    "properties": {}
   }
 }
