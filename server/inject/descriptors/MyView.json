@@ -54,7 +54,7 @@
     "sortBySeverity": {
       "type": "action",
       "selector": "a",
-      "control": "property.innerHTML",
+      "control": "action.link",
       "selectContains": "Severity"
     }
   },
