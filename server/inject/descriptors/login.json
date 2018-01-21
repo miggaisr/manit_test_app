@@ -21,6 +21,11 @@
       "selector": "div",
       "control": "property.innerText",
       "selectContains": "password you entered is incorrect"
+    },
+    "loginButton": {
+      "type": "action",
+      "selector": ".button",
+      "control": "action.button"
     }
   },
   "connect": [
