@@ -24,6 +24,12 @@
             "selector": "td",
             "control": "property.innerText",
             "selectIndex": 7
+          },
+          "update_date": {
+            "type": "string",
+            "selector": "td",
+            "control": "property.innerText",
+            "selectIndex": 8
           }
         }
       }
