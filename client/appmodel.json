@@ -103,6 +103,9 @@
               "type": "string"
             }
           }
+        },
+        "update": {
+          "type": "none"
         }
       },
       "sortBySeverity": {
