@@ -12,7 +12,5 @@
       "control": "property.innerText"
     }
   },
-  "connect": [],
-  "selector": "subtle",
-  "selectContains": "Assigned to Me"
+  "connect": []
 }
