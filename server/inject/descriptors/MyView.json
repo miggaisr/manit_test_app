@@ -3,7 +3,7 @@
   "properties": {
     "myAssignments": {
       "type": "array",
-      "selectorAll": "table",
+      "selectorAll": "#buglist",
       "items": {
         "type": "object",
         "properties": {
