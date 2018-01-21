@@ -1,0 +1,8 @@
+{
+  "name": "manit_test_app",
+  "description": "Mantis bug tracker",
+  "defaultLayout": "phone-portrait",
+  "previewToken": "6bda3b4a",
+  "uiCommonVersion": "5.2.10",
+  "creatorId": "miggaisr"
+}
