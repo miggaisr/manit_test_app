@@ -42,11 +42,6 @@
             "selector": "td",
             "control": "property.innerText",
             "selectIndex": 8
-          },
-          "color": {
-            "type": "string",
-            "control": "property.innerHTML",
-            "selector": "td"
           }
         }
       }
@@ -64,7 +59,7 @@
       "selectContains": "Severity"
     },
     "orderbyStatus": {
-      "type": "string",
+      "type": "action",
       "selector": "a",
       "control": "action.link",
       "selectContains": "Status"
