@@ -3,7 +3,7 @@
   "properties": {
     "myAssignments": {
       "type": "array",
-      "selectorAll": "body",
+      "selectorAll": "tr",
       "items": {
         "type": "object",
         "properties": {}
