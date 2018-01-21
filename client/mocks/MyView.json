@@ -2,204 +2,15 @@
  "myAssignments": [
   {
    "$i": 0,
-   "id": "0001183",
-   "Category": "Orthopedics",
-   "severity": "block",
+   "id": "0001185",
+   "Category": "Dermatology",
+   "severity": "trivial",
    "update_date": "2017-12-19",
-   "summary": "RS7",
+   "summary": "RS8",
    "status": "assigned (administrator)"
   },
   {
    "$i": 1,
-   "id": "0001182",
-   "Category": "Dermatology",
-   "severity": "block",
-   "update_date": "2017-12-19",
-   "summary": "RS6",
-   "status": "assigned (Sample User)"
-  },
-  {
-   "$i": 2,
-   "id": "0001179",
-   "Category": "Dermatology",
-   "severity": "block",
-   "update_date": "2017-12-19",
-   "summary": "RS 2",
-   "status": "assigned (piyush)"
-  },
-  {
-   "$i": 3,
-   "id": "0000942",
-   "Category": "General",
-   "severity": "block",
-   "update_date": "2017-08-19",
-   "summary": "Issue",
-   "status": "assigned (administrator)"
-  },
-  {
-   "$i": 4,
-   "id": "0001180",
-   "Category": "Cardiology",
-   "severity": "crash",
-   "update_date": "2017-12-19",
-   "summary": "RS4",
-   "status": "assigned (JBoyd)"
-  },
-  {
-   "$i": 5,
-   "id": "0001098",
-   "Category": "Orthopedics",
-   "severity": "crash",
-   "update_date": "2017-09-06",
-   "summary": "Bug found - lhmc",
-   "status": "new"
-  },
-  {
-   "$i": 6,
-   "id": "0001067",
-   "Category": "Orthopedics",
-   "severity": "crash",
-   "update_date": "2017-09-06",
-   "summary": "Testing",
-   "status": "new"
-  },
-  {
-   "$i": 7,
-   "id": "0000945",
-   "Category": "Pulmonary Center",
-   "severity": "crash",
-   "update_date": "2017-08-19",
-   "summary": "a",
-   "status": "assigned (LRobinson)"
-  },
-  {
-   "$i": 8,
-   "id": "0000384",
-   "Category": "Neurology",
-   "severity": "crash",
-   "update_date": "2017-05-16",
-   "summary": "System crashes when trying to update patient information",
-   "status": "new"
-  },
-  {
-   "$i": 9,
-   "id": "0001181",
-   "Category": "Orthopedics",
-   "severity": "major",
-   "update_date": "2017-12-19",
-   "summary": "RS5",
-   "status": "assigned (rajshekhar)"
-  },
-  {
-   "$i": 10,
-   "id": "0001116",
-   "Category": "Cardiology",
-   "severity": "major",
-   "update_date": "2017-09-07",
-   "summary": "Secret attachment",
-   "status": "assigned (piyush)"
-  },
-  {
-   "$i": 11,
-   "id": "0000865",
-   "Category": "Cardiology",
-   "severity": "major",
-   "update_date": "2017-07-28",
-   "summary": "1080: Issue with WindowsOS",
-   "status": "assigned (kausik)"
-  },
-  {
-   "$i": 12,
-   "id": "0000864",
-   "Category": "Cardiology",
-   "severity": "major",
-   "update_date": "2017-07-28",
-   "summary": "1080: Issue with WindowsOS",
-   "status": "assigned (kausik)"
-  },
-  {
-   "$i": 13,
-   "id": "0000853",
-   "Category": "Neurology",
-   "severity": "major",
-   "update_date": "2017-07-21",
-   "summary": "sdads",
-   "status": "assigned (LRobinson)"
-  },
-  {
-   "$i": 14,
-   "id": "0000817",
-   "Category": "Orthopedics",
-   "severity": "major",
-   "update_date": "2017-07-14",
-   "summary": "Unable to power on x-ray unit",
-   "status": "assigned (kausik)"
-  },
-  {
-   "$i": 15,
-   "id": "0000816",
-   "Category": "Orthopedics",
-   "severity": "major",
-   "update_date": "2017-07-14",
-   "summary": "broken x-ray unit",
-   "status": "assigned (kausik)"
-  },
-  {
-   "$i": 16,
-   "id": "0000815",
-   "Category": "Cardiology",
-   "severity": "major",
-   "update_date": "2017-07-13",
-   "summary": "test it once",
-   "status": "assigned (administrator)"
-  },
-  {
-   "$i": 17,
-   "id": "0000695",
-   "Category": "Cardiology",
-   "severity": "major",
-   "update_date": "2017-07-10",
-   "summary": "ghj",
-   "status": "assigned (administrator)"
-  },
-  {
-   "$i": 18,
-   "id": "0000603",
-   "Category": "Dermatology",
-   "severity": "major",
-   "update_date": "2017-07-07",
-   "summary": "rty",
-   "status": "assigned (administrator)"
-  },
-  {
-   "$i": 19,
-   "id": "0000534",
-   "Category": "General",
-   "severity": "major",
-   "update_date": "2017-07-03",
-   "summary": "Test Issue 10",
-   "status": "assigned (Sample User)"
-  },
-  {
-   "$i": 20,
-   "id": "0000375",
-   "Category": "General",
-   "severity": "major",
-   "update_date": "2017-05-16",
-   "summary": "User ID TStanley Unable to log in",
-   "status": "resolved (JBoyd)"
-  },
-  {
-   "$i": 21,
-   "id": "0000381",
-   "Category": "Physical Therapy Center",
-   "severity": "major",
-   "update_date": "2017-05-15",
-   "summary": "Patient Scheduling conflict - unable to reconcile changes made",
-   "status": "assigned (JBoyd)"
-  },
-  {
-   "$i": 22,
    "id": "0001184",
    "Category": "Dermatology",
    "severity": "minor",
@@ -208,160 +19,16 @@
    "status": "assigned (administrator)"
   },
   {
-   "$i": 23,
-   "id": "0001177",
-   "Category": "Project2",
-   "severity": "minor",
-   "update_date": "2017-10-25",
-   "summary": "321321",
-   "status": "new"
+   "$i": 2,
+   "id": "0001183",
+   "Category": "Orthopedics",
+   "severity": "block",
+   "update_date": "2017-12-19",
+   "summary": "RS7",
+   "status": "assigned (administrator)"
   },
   {
-   "$i": 24,
-   "id": "0001176",
-   "Category": "General",
-   "severity": "minor",
-   "update_date": "2017-10-25",
-   "summary": "gggggggggggggggg",
-   "status": "new"
-  },
-  {
-   "$i": 25,
-   "id": "0001175",
-   "Category": "Dermatology",
-   "severity": "minor",
-   "update_date": "2017-10-25",
-   "summary": "asdfasdf",
-   "status": "new"
-  },
-  {
-   "$i": 26,
-   "id": "0001174",
-   "Category": "Neurology",
-   "severity": "minor",
-   "update_date": "2017-10-25",
-   "summary": "asdfsf",
-   "status": "new"
-  },
-  {
-   "$i": 27,
-   "id": "0001173",
-   "Category": "Project2",
-   "severity": "minor",
-   "update_date": "2017-10-25",
-   "summary": "flex 3",
-   "status": "new"
-  },
-  {
-   "$i": 28,
-   "id": "0001172",
-   "Category": "Neurology",
-   "severity": "minor",
-   "update_date": "2017-10-25",
-   "summary": "flex 2",
-   "status": "new"
-  },
-  {
-   "$i": 29,
-   "id": "0001171",
-   "Category": "Dermatology",
-   "severity": "minor",
-   "update_date": "2017-10-25",
-   "summary": "flex1",
-   "status": "new"
-  },
-  {
-   "$i": 30,
-   "id": "0001170",
-   "Category": "Pulmonary Center",
-   "severity": "minor",
-   "update_date": "2017-10-25",
-   "summary": "flex",
-   "status": "new"
-  },
-  {
-   "$i": 31,
-   "id": "0001169",
-   "Category": "Dermatology",
-   "severity": "minor",
-   "update_date": "2017-10-25",
-   "summary": "888",
-   "status": "new"
-  },
-  {
-   "$i": 32,
-   "id": "0001168",
-   "Category": "Cardiology",
-   "severity": "minor",
-   "update_date": "2017-10-25",
-   "summary": "asdf",
-   "status": "new"
-  },
-  {
-   "$i": 33,
-   "id": "0001167",
-   "Category": "Dermatology",
-   "severity": "minor",
-   "update_date": "2017-10-25",
-   "summary": "fdsa",
-   "status": "new"
-  },
-  {
-   "$i": 34,
-   "id": "0001166",
-   "Category": "Neurology",
-   "severity": "minor",
-   "update_date": "2017-10-25",
-   "summary": "2 test",
-   "status": "new"
-  },
-  {
-   "$i": 35,
-   "id": "0001165",
-   "Category": "Neurology",
-   "severity": "minor",
-   "update_date": "2017-10-25",
-   "summary": "2 test",
-   "status": "new"
-  },
-  {
-   "$i": 36,
-   "id": "0001164",
-   "Category": "General",
-   "severity": "minor",
-   "update_date": "2017-10-25",
-   "summary": "1 test",
-   "status": "new"
-  },
-  {
-   "$i": 37,
-   "id": "0001163",
-   "Category": "General",
-   "severity": "minor",
-   "update_date": "2017-10-25",
-   "summary": "1 test",
-   "status": "new"
-  },
-  {
-   "$i": 38,
-   "id": "0001162",
-   "Category": "General",
-   "severity": "minor",
-   "update_date": "2017-10-25",
-   "summary": "1 test",
-   "status": "new"
-  },
-  {
-   "$i": 39,
-   "id": "0001161",
-   "Category": "Dermatology",
-   "severity": "minor",
-   "update_date": "2017-10-25",
-   "summary": "10",
-   "status": "new"
-  },
-  {
-   "$i": 40,
+   "$i": 3,
    "id": "0001160",
    "Category": "Dermatology",
    "severity": "minor",
@@ -370,70 +37,7 @@
    "status": "assigned (administrator)"
   },
   {
-   "$i": 41,
-   "id": "0001159",
-   "Category": "Orthopedics",
-   "severity": "minor",
-   "update_date": "2017-10-25",
-   "summary": "asdf",
-   "status": "new"
-  },
-  {
-   "$i": 42,
-   "id": "0001158",
-   "Category": "General",
-   "severity": "minor",
-   "update_date": "2017-10-25",
-   "summary": "asdf",
-   "status": "new"
-  },
-  {
-   "$i": 43,
-   "id": "0001157",
-   "Category": "General",
-   "severity": "minor",
-   "update_date": "2017-10-25",
-   "summary": "asdfasdf",
-   "status": "new"
-  },
-  {
-   "$i": 44,
-   "id": "0001156",
-   "Category": "Cardiology",
-   "severity": "minor",
-   "update_date": "2017-10-25",
-   "summary": "jeff from app",
-   "status": "new"
-  },
-  {
-   "$i": 45,
-   "id": "0001155",
-   "Category": "Orthopedics",
-   "severity": "minor",
-   "update_date": "2017-10-25",
-   "summary": "hi,jeff",
-   "status": "new"
-  },
-  {
-   "$i": 46,
-   "id": "0001154",
-   "Category": "Dermatology",
-   "severity": "minor",
-   "update_date": "2017-10-25",
-   "summary": "this is jeff",
-   "status": "new"
-  },
-  {
-   "$i": 47,
-   "id": "0001153",
-   "Category": "General",
-   "severity": "minor",
-   "update_date": "2017-10-25",
-   "summary": "this is jeff",
-   "status": "new"
-  },
-  {
-   "$i": 48,
+   "$i": 4,
    "id": "0001152",
    "Category": "Cardiology",
    "severity": "minor",
@@ -442,13 +46,409 @@
    "status": "assigned (administrator)"
   },
   {
-   "$i": 49,
-   "id": "0001151",
+   "$i": 5,
+   "id": "0001141",
    "Category": "Cardiology",
    "severity": "minor",
-   "update_date": "2017-10-13",
-   "summary": "asf",
-   "status": "new"
+   "update_date": "2017-09-08",
+   "summary": "BT",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 6,
+   "id": "0001135",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-09-08",
+   "summary": "Test one",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 7,
+   "id": "0001134",
+   "Category": "Dermatology",
+   "severity": "minor",
+   "update_date": "2017-09-08",
+   "summary": "T1",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 8,
+   "id": "0001133",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-09-08",
+   "summary": "Attachment test",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 9,
+   "id": "0001132",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-09-08",
+   "summary": "Test 10",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 10,
+   "id": "0001124",
+   "Category": "Dermatology",
+   "severity": "minor",
+   "update_date": "2017-09-08",
+   "summary": "Test abcd",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 11,
+   "id": "0001118",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-09-08",
+   "summary": "Test app1",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 12,
+   "id": "0001117",
+   "Category": "Cardiology",
+   "severity": "feature",
+   "update_date": "2017-09-07",
+   "summary": "Secret attachment",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 13,
+   "id": "0001000",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-09-06",
+   "summary": "change summary",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 14,
+   "id": "0000449",
+   "Category": "Cardiology",
+   "severity": "trivial",
+   "update_date": "2017-09-06",
+   "summary": "change summary value",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 15,
+   "id": "0000444",
+   "Category": "Cardiology",
+   "severity": "feature",
+   "update_date": "2017-09-05",
+   "summary": "change summary value",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 16,
+   "id": "0001047",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-09-05",
+   "summary": "change summary value",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 17,
+   "id": "0001026",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-09-05",
+   "summary": "summary value",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 18,
+   "id": "0001027",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-09-01",
+   "summary": "change summary value",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 19,
+   "id": "0001036",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-08-31",
+   "summary": "change summary value",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 20,
+   "id": "0001039",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-08-31",
+   "summary": "change summary value",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 21,
+   "id": "0001040",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-08-30",
+   "summary": "change summary value",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 22,
+   "id": "0001041",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-08-30",
+   "summary": "change summary value",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 23,
+   "id": "0001042",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-08-30",
+   "summary": "change summary value",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 24,
+   "id": "0001044",
+   "Category": "General",
+   "severity": "minor",
+   "update_date": "2017-08-30",
+   "summary": "Change issue status",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 25,
+   "id": "0001043",
+   "Category": "General",
+   "severity": "minor",
+   "update_date": "2017-08-30",
+   "summary": "Change issue status",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 26,
+   "id": "0001045",
+   "Category": "General",
+   "severity": "minor",
+   "update_date": "2017-08-30",
+   "summary": "Change issue status",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 27,
+   "id": "0000943",
+   "Category": "Project2",
+   "severity": "minor",
+   "update_date": "2017-08-30",
+   "summary": "Login issue",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 28,
+   "id": "0000942",
+   "Category": "General",
+   "severity": "block",
+   "update_date": "2017-08-19",
+   "summary": "Issue",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 29,
+   "id": "0000941",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-08-18",
+   "summary": "Test All",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 30,
+   "id": "0000940",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-08-18",
+   "summary": "Test Test",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 31,
+   "id": "0000939",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-08-17",
+   "summary": "Test app",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 32,
+   "id": "0000938",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-08-17",
+   "summary": "test exe",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 33,
+   "id": "0000937",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-08-17",
+   "summary": "Test binary 2",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 34,
+   "id": "0000936",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-08-17",
+   "summary": "Test binary",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 35,
+   "id": "0000935",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-08-17",
+   "summary": "Test pdf2",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 36,
+   "id": "0000934",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-08-17",
+   "summary": "test pdf",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 37,
+   "id": "0000933",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-08-17",
+   "summary": "Test 50 bin",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 38,
+   "id": "0000932",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-08-17",
+   "summary": "test 41 bin",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 39,
+   "id": "0000931",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-08-17",
+   "summary": "test 40 bin",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 40,
+   "id": "0000930",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-08-17",
+   "summary": "Test 39 bin",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 41,
+   "id": "0000929",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-08-17",
+   "summary": "test 36 bin",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 42,
+   "id": "0000928",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-08-17",
+   "summary": "Test 35 bin",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 43,
+   "id": "0000927",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-08-17",
+   "summary": "Test 34 bin",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 44,
+   "id": "0000926",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-08-17",
+   "summary": "Test 34 bin",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 45,
+   "id": "0000925",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-08-17",
+   "summary": "test 33 bin",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 46,
+   "id": "0000924",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-08-17",
+   "summary": "Test 32 bin",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 47,
+   "id": "0000923",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-08-17",
+   "summary": "test 30 bin",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 48,
+   "id": "0000922",
+   "Category": "Cardiology",
+   "severity": "minor",
+   "update_date": "2017-08-17",
+   "summary": "Test 29 bin",
+   "status": "assigned (administrator)"
+  },
+  {
+   "$i": 49,
+   "id": "0000921",
+   "Category": "Dermatology",
+   "severity": "minor",
+   "update_date": "2017-08-17",
+   "summary": "Test 28 bin",
+   "status": "assigned (administrator)"
   },
   {
    "$i": 50
