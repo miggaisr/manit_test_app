@@ -71,8 +71,8 @@
         "properties": {
           "value": {
             "type": "string",
-            "selector": ".center",
-            "control": "property.innerText"
+            "selector": "tr",
+            "control": "property.innerHTML"
           }
         }
       }
