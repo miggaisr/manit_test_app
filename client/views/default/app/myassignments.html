@@ -13,23 +13,38 @@
             <div class="row" collection-repeat="item in data.myAssignments"
                 data-comp-id="row.1">
                 <div class="col" data-comp-id="column.1">
-                    <div data-comp-id="text.1">Some text</div>
+                    <div class="row" data-comp-id="row.2">
+                        <div class="col" data-comp-id="column.2">
+                            <div class="item item-icon-right" data-comp-id="item.1">
+                                <div data-comp-id="text.1" ng-bind="item.id">
+                                    Some text
+                                    <span class="item-note"></span>
+                                </div>
+                                <i class="icon ion-ios-arrow-right" data-comp-id="icon.1" style="font-size:32px"></i>
+                            </div>
+                        </div>
+                        <div class="col" data-comp-id="column.3">
+                            <div data-comp-id="text.2" ng-bind="item.severity">Some text</div>
+                        </div>
+                    </div>
+                    <div class="row" data-comp-id="row.3">
+                        <div class="col" data-comp-id="column.4">
+                            <div data-comp-id="text.3">Category</div>
+                        </div>
+                        <div class="col" data-comp-id="column.5">
+                            <div data-comp-id="text.4">Date</div>
+                        </div>
+                        <div class="col" data-comp-id="column.6">
+                            <div data-comp-id="text.5">Summary</div>
+                        </div>
+                        <div class="col" data-comp-id="column.7">
+                            <div data-comp-id="text.6">Status</div>
+                        </div>
+                    </div>
+                    <div class="row" data-comp-id="row.4">
+                        <div class="col" data-comp-id="column.8"></div>
+                    </div>
                 </div>
-            </div>
-            <div class="row" data-comp-id="row.2">
-                <div class="col" data-comp-id="column.2"></div>
-            </div>
-            <div class="row" data-comp-id="row.3">
-                <div class="col" data-comp-id="column.3"></div>
-                <div class="col" data-comp-id="column.4"></div>
-                <div class="col" data-comp-id="column.5"></div>
-                <div class="col" data-comp-id="column.6"></div>
-            </div>
-            <div class="row" data-comp-id="row.4">
-                <div class="col" data-comp-id="column.7"></div>
-                <div class="col" data-comp-id="column.8"></div>
-                <div class="col" data-comp-id="column.9"></div>
-                <div class="col" data-comp-id="column.10"></div>
             </div>
         </div>
     </ion-content>
