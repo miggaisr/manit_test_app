@@ -1,5 +1,14 @@
 {
   "type": "object",
-  "properties": {},
+  "properties": {
+    "myAssignments": {
+      "type": "array",
+      "selectorAll": "body",
+      "items": {
+        "type": "object",
+        "properties": {}
+      }
+    }
+  },
   "connect": []
 }
