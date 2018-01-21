@@ -8,8 +8,9 @@
     },
     "goToMyView": {
       "type": "action",
-      "selector": "body",
-      "control": "property.innerText"
+      "selector": "subtle",
+      "control": "action.link",
+      "selectContains": "Assigned to Me"
     }
   },
   "connect": []
