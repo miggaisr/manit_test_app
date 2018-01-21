@@ -62,14 +62,6 @@
       "selector": "a",
       "control": "action.link",
       "selectContains": "Severity"
-    },
-    "colors": {
-      "type": "array",
-      "selectorAll": "table",
-      "items": {
-        "type": "object",
-        "properties": {}
-      }
     }
   },
   "connect": [
