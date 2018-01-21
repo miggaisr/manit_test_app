@@ -70,7 +70,9 @@
       "model": "MyView"
     },
     {
-      "match": [],
+      "match": [
+        "isMyView"
+      ],
       "action": "orderbySeverity"
     }
   ]
