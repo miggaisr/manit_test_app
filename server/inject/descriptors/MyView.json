@@ -45,7 +45,8 @@
           },
           "color": {
             "type": "string",
-            "control": "[bgcolor]"
+            "control": "property.innerText",
+            "selector": "tr > td"
           }
         }
       }
