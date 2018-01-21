@@ -3,7 +3,7 @@
   "properties": {
     "myAssignments": {
       "type": "array",
-      "selectorAll": "[name='bug_action']",
+      "selectorAll": "[bgcolor=\"#c2dfff\"]",
       "items": {
         "type": "object",
         "properties": {
