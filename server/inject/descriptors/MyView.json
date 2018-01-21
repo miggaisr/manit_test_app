@@ -30,6 +30,12 @@
             "selector": "td",
             "control": "property.innerText",
             "selectIndex": 9
+          },
+          "summary": {
+            "type": "string",
+            "selector": "td",
+            "control": "property.innerText",
+            "selectIndex": 10
           }
         }
       }
