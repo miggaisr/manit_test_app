@@ -45,8 +45,9 @@
           },
           "color": {
             "type": "string",
-            "selector": "bgcolor",
-            "control": "property.innerText"
+            "selector": "tr",
+            "control": "property.innerText",
+            "selectContains": "bgcolor"
           }
         }
       }
