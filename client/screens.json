@@ -1,7 +1,7 @@
 {
   "id": "app",
   "name": "manit_test_app",
-  "startScreen": "app.logincool",
+  "startScreen": null,
   "screens": [
     {
       "id": "blank",
@@ -20,13 +20,6 @@
       "name": "multiselect",
       "sourceAppId": "_blank",
       "sourceScreenId": "app.multiselect"
-    },
-    {
-      "id": "logincool",
-      "name": "Login-Cool",
-      "sourceScreenId": "app.login.logincool",
-      "sourceAppId": "universaltemplates",
-      "model": "login"
     },
     {
       "id": "myassignments",
