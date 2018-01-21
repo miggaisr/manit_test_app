@@ -65,7 +65,7 @@
     },
     "colors": {
       "type": "array",
-      "selectorAll": ".center",
+      "selectorAll": "table",
       "items": {
         "type": "object",
         "properties": {}
