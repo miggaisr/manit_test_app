@@ -12,7 +12,7 @@
             <div class="card" data-comp-display="card.1" data-comp-id="div.1">
                 <div class="row light dark-border energized-bg" data-comp-id="row.1"
                     ng-repeat="item in data.myAssignments"
-                    style="padding: 5px; margin: 1px; border-width: 2px; border-style: initial; border-color: initial; border-radius: 1px;">
+                    style="padding: 5px; margin: 1px; border-width: 2px; border-style: initial; border-color: initial; border-radius: 1px;background-color: {{(item.status == 'new') ? 'red': (item.status == 'assigned (administrator)') ? 'energized-bg' : 'green'}}">
                     <div class="col royal-border text-center" data-comp-id="column.1">
                         <div class="row" data-comp-id="row.2">
                             <div class="col" data-comp-id="column.2">
