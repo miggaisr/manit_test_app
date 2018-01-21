@@ -45,7 +45,7 @@
           },
           "color": {
             "type": "string",
-            "control": "bgcolor"
+            "control": "[bgcolor]"
           }
         }
       }
