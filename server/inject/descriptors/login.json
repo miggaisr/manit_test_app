@@ -36,12 +36,6 @@
       "screens": [
         "logincool"
       ]
-    },
-    {
-      "match": [
-        "isLogin"
-      ],
-      "action": "loginButton"
     }
   ]
 }
