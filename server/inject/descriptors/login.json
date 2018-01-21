@@ -18,7 +18,7 @@
     },
     "error_message": {
       "type": "string",
-      "selector": ".div",
+      "selector": "div",
       "control": "property.innerText",
       "selectContains": "password you entered is incorrect"
     }
