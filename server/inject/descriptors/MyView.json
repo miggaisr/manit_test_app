@@ -12,6 +12,12 @@
             "selector": "tr",
             "control": "property.innerText",
             "selectIndex": 5
+          },
+          "Category": {
+            "type": "string",
+            "selector": ".tr",
+            "control": "property.innerText",
+            "selectIndex": 6
           }
         }
       }
