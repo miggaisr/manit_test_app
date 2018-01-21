@@ -33,7 +33,7 @@
       "name": "myAssignments",
       "sourceScreenId": "app.listview.listviewcool",
       "sourceAppId": "universaltemplates",
-      "model": "myassignments"
+      "model": "MyView"
     }
   ],
   "sourceAppId": "_blank",

@@ -64,6 +64,12 @@
         "isMyView"
       ],
       "action": "sortBySeverity"
+    },
+    {
+      "match": [],
+      "screens": [
+        "myassignments"
+      ]
     }
   ]
 }
