@@ -65,7 +65,7 @@
     },
     "colors": {
       "type": "array",
-      "selectorAll": ".buglist",
+      "selectorAll": "[name='bug_action']",
       "items": {
         "type": "object",
         "properties": {
