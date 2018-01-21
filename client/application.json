@@ -4,5 +4,11 @@
   "defaultLayout": "phone-portrait",
   "previewToken": "6bda3b4a",
   "uiCommonVersion": "5.2.10",
-  "creatorId": "miggaisr"
+  "creatorId": "miggaisr",
+  "id": "manit_test_app",
+  "previewImageURL": "/previews/6bda3b4a-manit_test_app/app/blank.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/miggaisr/manit_test_app",
+  "creatorName": "Gadi Israeli",
+  "sdks": []
 }
