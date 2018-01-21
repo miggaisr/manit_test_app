@@ -8,11 +8,12 @@
     },
     "assigments_list": {
       "type": "array",
-      "selectorAll": "td",
+      "selectorAll": "tr",
       "items": {
         "type": "object",
         "properties": {}
-      }
+      },
+      "frameSelector": "Assigned to Me"
     }
   },
   "connect": []
