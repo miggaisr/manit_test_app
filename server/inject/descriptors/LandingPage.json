@@ -3,8 +3,8 @@
   "properties": {
     "isLanding": {
       "type": "identifier",
-      "selector": ".button",
-      "control": "action.button"
+      "selector": "html",
+      "control": ".url=my_view_page"
     }
   },
   "connect": []
