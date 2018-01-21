@@ -3,7 +3,7 @@
   "properties": {
     "myAssignments": {
       "type": "array",
-      "selectorAll": "[bgcolor=\"#c2dfff\"]",
+      "selectorAll": "[bgcolor]",
       "items": {
         "type": "object",
         "properties": {
