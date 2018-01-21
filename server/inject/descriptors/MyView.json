@@ -68,7 +68,13 @@
       "selectorAll": "table",
       "items": {
         "type": "object",
-        "properties": {}
+        "properties": {
+          "value": {
+            "type": "string",
+            "selector": ".center",
+            "control": "property.innerText"
+          }
+        }
       }
     }
   },
