@@ -5,8 +5,9 @@
                 <div class="col text-center" data-comp-id="column.1"
                     style="padding: 40px 0px 20px;"><img data-comp-id="image.1" data-img="" ng-src="images/mantis_logo.png"
                     style="width: 80%;">
-                    <div data-comp-id="text.1"
-                        style="font-size: 16px; line-height: 30px; font-weight: 300;">Password is incorrect</div>
+                    <div data-comp-id="text.1" ng-bind="data.error_message"
+                        ng-if="data.error_message"
+                        style="font-size: 16px; line-height: 30px; font-weight: 300;"></div>
                 </div>
             </div>
         </div>
