@@ -46,7 +46,7 @@
           "color": {
             "type": "string",
             "control": "property.innerHTML",
-            "selector": "tr > td"
+            "selector": "tr < td"
           }
         }
       }
