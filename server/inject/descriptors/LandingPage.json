@@ -5,6 +5,14 @@
       "type": "identifier",
       "selector": "html",
       "control": "url.my_view_page"
+    },
+    "assigments_list": {
+      "type": "array",
+      "selectorAll": "tr",
+      "items": {
+        "type": "object",
+        "properties": {}
+      }
     }
   },
   "connect": []
