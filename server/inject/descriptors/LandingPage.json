@@ -6,15 +6,13 @@
       "selector": "html",
       "control": "url.my_view_page"
     },
-    "assigments_list": {
-      "type": "array",
-      "selectorAll": "tr",
-      "items": {
-        "type": "object",
-        "properties": {}
-      },
-      "frameSelector": "Assigned to Me"
+    "goToMyView": {
+      "type": "action",
+      "selector": "body",
+      "control": "property.innerText"
     }
   },
-  "connect": []
+  "connect": [],
+  "selector": "subtle",
+  "selectContains": "Assigned to Me"
 }
