@@ -48,7 +48,7 @@
     },
     "isMyView": {
       "type": "identifier",
-      "selector": "table",
+      "selector": "td",
       "control": "contains",
       "selectContains": "Viewing Issues"
     }
