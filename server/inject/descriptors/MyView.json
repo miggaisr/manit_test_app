@@ -50,22 +50,9 @@
       "type": "identifier",
       "selector": "html",
       "control": "url.view_all_bug_page"
-    },
-    "sortBySeverity": {
-      "type": "action",
-      "selector": "a",
-      "control": "action.link",
-      "selectContains": "Severity"
     }
   },
   "connect": [
-    {
-      "match": [
-        "isMyView"
-      ],
-      "action": "sortBySeverity",
-      "model": "MyView"
-    },
     {
       "match": [
         "isMyView"
