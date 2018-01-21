@@ -121,9 +121,8 @@
           "type": "none"
         }
       },
-      "sortBySeverity": {
-        "type": "action",
-        "selectContains": "Severity"
+      "orderbySeverity": {
+        "type": "action"
       }
     }
   },
