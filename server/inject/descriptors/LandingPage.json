@@ -4,7 +4,7 @@
     "isLanding": {
       "type": "identifier",
       "selector": "html",
-      "control": ".url=my_view_page"
+      "control": "url.my_view_page"
     }
   },
   "connect": []
