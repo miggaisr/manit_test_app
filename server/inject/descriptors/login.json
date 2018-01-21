@@ -22,7 +22,7 @@
       "control": "property.innerText",
       "selectContains": "password you entered is incorrect"
     },
-    "loginButton": {
+    "submit": {
       "type": "action",
       "selector": ".button",
       "control": "action.button"
