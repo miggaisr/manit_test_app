@@ -48,8 +48,8 @@
     },
     "isMyView": {
       "type": "identifier",
-      "selector": "td",
-      "control": "contains",
+      "selector": "table",
+      "control": "exists",
       "selectContains": "Viewing Issues"
     }
   },
