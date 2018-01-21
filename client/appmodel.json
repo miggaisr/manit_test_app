@@ -123,6 +123,12 @@
       },
       "orderbySeverity": {
         "type": "action"
+      },
+      "orderbyStatus": {
+        "type": "action"
+      },
+      "orderbyDate": {
+        "type": "action"
       }
     }
   },
